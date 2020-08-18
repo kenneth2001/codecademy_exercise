@@ -64,6 +64,7 @@ while right_stack.get_size() != num_disks:
     break
 print("\nYou completed the game in {0} moves, and the optimal number of move is {1}".format(num_user_moves, num_optimal_moves))
 
+#Type to exit
 a = input()
 
 
